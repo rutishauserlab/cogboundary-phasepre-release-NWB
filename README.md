@@ -25,7 +25,7 @@ _B01_raster_psth_timeDiscrim_SAligned_BSep_NWB_: generate raster and PSTH plots 
 
 ** Codes for phase precession computation
 
-_C01_thetaBusrts_detection_NWB_: detect theta bursts using the cycle-by-cycle analyses suite documented in Cole S and Voytek B, 2019, Journal of Neurophysiology (https://journals.physiology.org/doi/full/10.1152/jn.00273.2019)
+_C01_thetaBouts_detection_NWB_: detect theta bursts using the cycle-by-cycle analyses suite documented in Cole S and Voytek B, 2019, Journal of Neurophysiology (https://journals.physiology.org/doi/full/10.1152/jn.00273.2019)
 
 _C02_phase_precession_r_NWB_: quantify phase precession by computing correlation coefficient between the spiking phases and time in unwrapped theta phases
 
